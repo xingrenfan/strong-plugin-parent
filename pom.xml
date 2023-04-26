@@ -48,11 +48,6 @@
 
     <packaging>pom</packaging>
 
-    <modules>
-        <module>mybatis-secure-plugin</module>
-        <module>json-data-plugin</module>
-    </modules>
-
     <dependencyManagement>
         <dependencies>
             <!-- spring dependency -->
