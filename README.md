@@ -4,23 +4,16 @@
 
 一个建单的Spring MVC工程增强插件的父类定义
 
-
-
 ## 组件介绍
 
-### `mybatis-secure-plugin`
+### `strong-mybatis-plugin`
 
-Mybatis增强组件，支持数据持久化时自动加密、查询结果自动解密、查询结果自动脱敏。具体说明查看`mybatis-plugin/readme.md`
+Mybatis
+CRUD增强组件，支持数据持久化时自动加密、查询结果自动解密、查询结果自动脱敏。具体说明查看: [strong-mybatis-plugin](https://github.com/xingrenfan/strong-mybatis-plugin/blob/main/README.md)
 
+### `strong-json-plugin`
 
-
-### `json-data-plugin`
-
-Json数据增强组件，数据序列化时脱敏。具体说明查看`json-data-plugin/readme.md`
-
-
-
-
+Json数据序列化脱敏。具体说明查看[strong-json-plugin](https://github.com/xingrenfan/strong-json-plugin/blob/main/README.md)
 
 # 开源协议
 
